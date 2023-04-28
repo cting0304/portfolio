@@ -134,6 +134,11 @@ li:hover::after{
 .navbar {
   position: fixed;
   width: 100%;
+
+}
+
+.navbar-nav {
+  font-family: 'Castoro Titling';
 }
 
 nav img {
@@ -175,6 +180,7 @@ span {
     
     font-size: 16px;
     font-weight: normal;
+    font-family: "Josefin Sans";
     
 }
 
@@ -210,6 +216,7 @@ span {
 .container1 .heading{
   width: 50%;
   padding-bottom: 50px;
+  font-family: "Josefin Sans";
 }
 .container1 .heading h3{
   font-size: 2em;
