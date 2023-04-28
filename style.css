@@ -134,22 +134,31 @@ li:hover::after{
 .navbar {
   position: fixed;
   width: 100%;
+  background-color: #dedede;
+}
 
+
+#porfolio-nav{
+  background-color: #dedede
 }
 
 .navbar-nav {
   font-family: 'Castoro Titling';
+  background-color: #dedede;
 }
+
 
 nav img {
     max-width: 140px;
-    height: 65  px;
+    height: 65px;
+    background-color: #dedede;
 }
 
 .navbar-toggler-icon {
   background-color: #040f13;
   width: 35px;
   height: 35px;
+
 }
 
 li a {
@@ -168,7 +177,6 @@ li a {
 
 #title {
     font-size: 2rem;
-    
     font-weight: bold;
     font-family: "zilla slab";
 }
